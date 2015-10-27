@@ -1,0 +1,2 @@
+# CanonicalOnion
+Canonical onion architecture
